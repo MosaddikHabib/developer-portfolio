@@ -23,7 +23,7 @@ section{
 
 .hireme-btn{
     text-decoration: none;
-    background-color: red;
+    background-image: linear-gradient(orange,tomato);
     color: white;
     padding: 10px 40px;
     font-weight: 700;
