@@ -6,7 +6,7 @@ body{
 h1{
     font-size: 50px;
 }
-.orange-name{
+.orange-color{
     color:orange;
 }
 
@@ -41,4 +41,11 @@ h1{
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+
+.experiance-item{
+    box-shadow: 10px 10px 40px gray;
+    width: 40% ;
+    margin-left: 5% ;
+    margin-right: 5%;
 }
