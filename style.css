@@ -61,3 +61,15 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+
+#web-dev-exp{
+    border-left: 7px solid;
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+}
+
+#full-stack-dev{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
